@@ -1,3 +1,6 @@
+🤝 Project by<br/>
+Bharath Nayakanti and Sagar Das<br/>
+
 ⚽ Football Tournament Management System<br/>
 A comprehensive platform for organizing football tournaments, managing teams and fixtures, tracking live standings, predicting outcomes, and generating video highlights using audio/video processing.
 
@@ -91,8 +94,6 @@ Real-time commentary using NLP<br/>
 Live YouTube integration for auto-publishing highlights<br/>
 Deep learning-based highlight detection (YOLO, etc.)<br/>
 
-🤝 Project by<br/>
-Bharath Nayakanti and Sagar Das<br/>
 
 📄 License<br/>
 This project is licensed under the MIT License. See LICENSE for more details.
